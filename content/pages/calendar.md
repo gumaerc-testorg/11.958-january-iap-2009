@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 59701c93-1297-e215-0ed8-30390271c5cb
 ---

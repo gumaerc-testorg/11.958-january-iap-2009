@@ -2,8 +2,13 @@
 content_type: resource
 description: Reading tips and study questions for a lecture on strategic collaboration
   and performance management.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/1a4d6e06fa2ab25a622d01a5d0845ec3_questions3.pdf
+file: /media/courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/1a4d6e06fa2ab25a622d01a5d0845ec3_questions3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Reading Tips and Study Questions: Day Three'
 uid: 1a4d6e06-fa2a-b25a-622d-01a5d0845ec3
