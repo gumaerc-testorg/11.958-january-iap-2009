@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 939724a2-7296-4112-ef3f-e9caa1a55352
 resourcetype: Document
 title: 'Reading Tips and Study Questions: Day Five'
 uid: 30ec9cdd-dda0-3bdc-0a26-f40411308c1d

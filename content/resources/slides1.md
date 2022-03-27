@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 939724a2-7296-4112-ef3f-e9caa1a55352
 resourcetype: Document
 title: Creating Value + Political Management
 uid: 88777fd6-6d6e-cb96-3a04-d9b9fc9973dc

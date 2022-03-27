@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 939724a2-7296-4112-ef3f-e9caa1a55352
 resourcetype: Document
 title: Developing and Changing Organizational Strategy
 uid: 05f030c5-f57a-b346-ee2f-86a8787980ce

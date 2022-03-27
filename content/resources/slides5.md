@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 939724a2-7296-4112-ef3f-e9caa1a55352
 resourcetype: Document
 title: Thinking like an implementer + Leading change
 uid: 3b2455d9-ed62-791c-73c3-98d0ac2b2bfb

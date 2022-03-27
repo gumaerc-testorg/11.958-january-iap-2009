@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 939724a2-7296-4112-ef3f-e9caa1a55352
 resourcetype: Document
 title: Collaborative Strategy + Performance Management
 uid: 7bd5e7cf-33ce-b977-4dee-7bdf528d5c3b
