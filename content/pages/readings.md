@@ -3,11 +3,12 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: 0ee7961e-6d0f-ba0a-7f02-c4bd0b70f6d1
 ---
 
-This section presents the list of case studies and readings given to the students at the beginning of the course. See the "Study questions and reading tips" handouts in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) section for comments, reading order, and questions to consider while reading.
+This section presents the list of case studies and readings given to the students at the beginning of the course. See the "Study questions and reading tips" handouts in the {{< resource_link 939724a2-7296-4112-ef3f-e9caa1a55352 "lecture notes" >}} section for comments, reading order, and questions to consider while reading.
 
 {{< tableopen >}}
 {{< theadopen >}}
