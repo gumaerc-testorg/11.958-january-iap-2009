@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: This section presents the list of case studies and readings given to
+  the students at the beginning of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 0ee7961e-6d0f-ba0a-7f02-c4bd0b70f6d1
 ---
 
-This section presents the list of case studies and readings given to the students at the beginning of the course. See the "Study questions and reading tips" handouts in the {{< resource_link 939724a2-7296-4112-ef3f-e9caa1a55352 "lecture notes" >}} section for comments, reading order, and questions to consider while reading.
+This section presents the list of case studies and readings given to the students at the beginning of the course. See the "Study questions and reading tips" handouts in the {{% resource_link 939724a2-7296-4112-ef3f-e9caa1a55352 "lecture notes" %}} section for comments, reading order, and questions to consider while reading.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -132,7 +133,7 @@ Reasons to collaborate, risks, levels and stages of collaboration or "partnershi
 
 "Finding Black Parents: One Church, One Child." Cambridge, MA: Harvard University, Kennedy School of Government Case Program. Case: C16-88-856.0, 1988.
 
-Briggs, Xavier de Souza. "Perfect Fit or Shotgun Marriage?: Understanding the Power and Pitfalls in Partnerships." The Community Problem-Solving Project @ MIT, June 2003, selected pages. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/cpsproject/images/PerfectFit.pdf))
+Briggs, Xavier de Souza. "Perfect Fit or Shotgun Marriage?: Understanding the Power and Pitfalls in Partnerships." The Community Problem-Solving Project @ MIT, June 2003, selected pages. ([PDF](http://web.mit.edu/cpsproject/images/PerfectFit.pdf))
 
 
 {{< tdclose >}}
