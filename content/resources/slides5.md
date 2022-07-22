@@ -6,6 +6,7 @@ file: /courses/11-958-getting-things-implemented-strategy-people-performance-and
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Thinking like an implementer + Leading change
 uid: 3b2455d9-ed62-791c-73c3-98d0ac2b2bfb
 ---
 Lecture presentation on identifying implementation challenges and generating strategic options, and leading change.
-

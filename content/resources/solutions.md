@@ -5,6 +5,7 @@ file: /courses/11-958-getting-things-implemented-strategy-people-performance-and
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Sample Solutions
 uid: 83c02c0b-caba-f161-f065-df4acb389661
 ---
 Solutions for for the sample take-home exam questions.
-

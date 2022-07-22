@@ -6,6 +6,7 @@ file: /courses/11-958-getting-things-implemented-strategy-people-performance-and
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Developing and Changing Organizational Strategy
 uid: 05f030c5-f57a-b346-ee2f-86a8787980ce
 ---
 Lecture presentation on models of strategy and analyzing alignment changes over the life-cycle of an organization.
-

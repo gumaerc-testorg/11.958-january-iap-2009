@@ -6,6 +6,7 @@ file: /courses/11-958-getting-things-implemented-strategy-people-performance-and
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Reading Tips and Study Questions: Day Three'
 uid: 1a4d6e06-fa2a-b25a-622d-01a5d0845ec3
 ---
 Reading tips and study questions for a lecture on strategic collaboration and performance management.
-

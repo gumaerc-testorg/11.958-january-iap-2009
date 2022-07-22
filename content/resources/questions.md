@@ -5,6 +5,7 @@ file: /courses/11-958-getting-things-implemented-strategy-people-performance-and
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Take-home Exam Questions
 uid: e32a6bd1-13fb-d66a-0b47-818252652056
 ---
 Take-home final exam for the course.
-

@@ -6,6 +6,7 @@ file: /courses/11-958-getting-things-implemented-strategy-people-performance-and
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Reading Tips and Study Questions: Day Five'
 uid: 30ec9cdd-dda0-3bdc-0a26-f40411308c1d
 ---
 Reading tips and study questions for a lecture on strategic vision and leadership.
-

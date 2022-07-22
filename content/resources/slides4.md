@@ -6,6 +6,7 @@ file: /courses/11-958-getting-things-implemented-strategy-people-performance-and
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Core elements of operating capacity (structure, process, human resources)
 uid: 78d42366-27cf-a532-9ba8-10349d56cb34
 ---
 Lecture presentation on structuring work, managing talent, and core elements of operating capacity (structure, process, human resources).
-

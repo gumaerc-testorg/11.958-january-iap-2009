@@ -5,6 +5,7 @@ file: /courses/11-958-getting-things-implemented-strategy-people-performance-and
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Negotiation and Coalition Building
 uid: 67b4c20f-ddbf-10c5-1dfc-2e05255e7ce6
 ---
 Lecture presentation on negotiation and coalition building.
-
