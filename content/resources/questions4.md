@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading tips and study questions for a lecture on structuring work and
   managing talent.
-file: /ol-ocw-studio-app/courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/4d943ad68ce82f1daec7126cd849d4cc_questions4.pdf
+file: /courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/4d943ad68ce82f1daec7126cd849d4cc_questions4.pdf
 file_size: 32757
 file_type: application/pdf
 learning_resource_types:
