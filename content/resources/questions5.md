@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading tips and study questions for a lecture on strategic vision and
   leadership.
-file: /courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/30ec9cdddda03bdc0a26f40411308c1d_questions5.pdf
+file: /ol-ocw-studio-app/courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/30ec9cdddda03bdc0a26f40411308c1d_questions5.pdf
 file_size: 30451
 file_type: application/pdf
 learning_resource_types:
