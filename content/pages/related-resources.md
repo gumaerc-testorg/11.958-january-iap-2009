@@ -46,13 +46,13 @@ Useful tools from the author of the influential and controversial *Reinventing G
 
 ## Helpful Periodicals, Reports, and Other On-line Resources
 
-[The Bridgespan Group articles and cases](http://www.bridgespan.org/)
+{{% resource_link "caa45419-66a9-43a9-8848-5e364c7aeef8" "The Bridgespan Group articles and cases" %}}
 
-[Building the Organizations That Build Communities](https://www.huduser.gov/Publications/pdf/buldOrgCommunities.pdf), U.S. Department of Housing and Urban Development
+{{% resource_link "9cb6d9d6-eb61-43e8-8b57-5a0aaa16c91b" "Building the Organizations That Build Communities" %}}, U.S. Department of Housing and Urban Development
 
-[The Community Problem-Solving Project @ MIT](http://web.mit.edu/cpsproject/home.html) (strategy tools)
+{{% resource_link "05539b4a-842e-41fb-886e-6b61102c621a" "The Community Problem-Solving Project @ MIT" %}} (strategy tools)
 
-[IBM Center for the Business of Government](http://www.businessofgovernment.org/) ("how to" reports)
+{{% resource_link "1ac74954-beab-4856-a21a-fa28a01a0b73" "IBM Center for the Business of Government" %}} ("how to" reports)
 
 NeighborWorks' *Ideas in Action* (community development focus)
 
@@ -62,4 +62,4 @@ NeighborWorks' *Ideas in Action* (community development focus)
 
 *Stanford Social Innovation Review*
 
-[*Working Knowledge*](http://hbswk.hbs.edu/) (Harvard Business School e-magazine)
+{{% resource_link "488f9a74-1866-4b1a-a1b8-9528378c30e1" "*Working Knowledge*" %}} (Harvard Business School e-magazine)
